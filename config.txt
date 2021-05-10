@@ -1,0 +1,8 @@
+token=NzkyNTUxMzY5Njc1ODk4OTMw.X-fW-w.t_wMMz3dZEFwbJE7RGLbHu_NBOA
+owner=your id
+prefix="YOUR PREFIX"
+game="playing what ?"
+stayinchannel=true
+songinstatus=false
+updatealerts=false
+Dnogui=true
